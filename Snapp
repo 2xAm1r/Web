@@ -1,1 +1,3 @@
-vless://522857f0-a07b-4303-a873-c93de8738651@MCI-vpncustomize.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=vp.TrV2ray.cfd#MCI+%40VPNCUSTOMIZE
+vless://4fac0e66-13a0-443f-fd7a-8c0b027e4631@mci-MsV2ray.ddns.net:2087?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@MsV2ray&sni=tm.MsV2ray.fun#%40MsV2ray+%7C+Mci
+
+vless://1a9c96e6-6012-4ed1-99ff-64248cb66c20@MCI-vpncustomize.ddns.net:2096?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=no.TrV2ray.cfd#MCI+%40VPNCUSTOMIZE
